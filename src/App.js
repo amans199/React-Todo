@@ -169,7 +169,7 @@ class App extends Component {
         < div className="container" >
           <header className="App-header my-5">
             <h1>
-              Vue-Todo App Created with <span role="img" aria-label="Love">&#x1F5A4;</span> by
+              React-Todo App Created with <span role="img" aria-label="Love">&#x1F5A4;</span> by
             <a
                 href="https://www.linkedin.com/in/amans199/"
                 target="_blank"
